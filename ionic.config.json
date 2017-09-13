@@ -1,5 +1,11 @@
 {
-  "name": "invision",
-  "app_id": "",
-  "type": "ionic1"
+  "name": "Eventbuzz",
+  "app_id": "4b003fda",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {}
+  },
+  "watchPatterns": [
+    "scss/**/*"
+  ]
 }

@@ -1,0 +1,90 @@
+{
+	"totalRows": 8,
+	"rows": [
+		{
+			"id": 1,
+			"title": "Sports & fitness",
+			"img": "./img/categories/sports_and_fitness.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Parties",
+			"img": "./img/categories/party.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Charity",
+			"img": "./img/categories/charity.jpg"
+		},
+    {
+      "id": 4,
+      "title": "Food & drink",
+      "img": "./img/categories/food_and_drink.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Hair & make-up",
+      "img": "./img/categories/hair.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Music",
+      "img": "./img/categories/music.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sales",
+      "img": "./img/categories/sales.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Fashion",
+      "img": "./img/categories/fashion.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Education",
+      "img": "./img/categories/education.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Community",
+      "img": "./img/categories/community.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Arts",
+      "img": "./img/categories/arts.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Auto Shows",
+      "img": "./img/categories/auto.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Find a Friend",
+      "img": "./img/categories/find_a_friend.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Fun & Leisure",
+      "img": "./img/categories/fun.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Nightlife",
+      "img": "./img/categories/nightlife.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Outdoors",
+      "img": "./img/categories/outdoors.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Other",
+      "img": "./img/categories/others.jpg"
+    }
+	]
+}
